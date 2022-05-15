@@ -1,3 +1,6 @@
+'''
+lets make a multiplication table
+'''
 print("Multiplication Table")
 print()
 print('   ',end='')
